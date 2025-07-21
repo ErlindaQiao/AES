@@ -1,7 +1,7 @@
 # Data and Results
 This repository contains the real data and experimental results of the paper: 
 
-“Optimization of Cargo Transport and Energy Replenishment Scheduling for All-electric Ships in Inland Waterways”
+“An exact approach to the all-electric ship scheduling problem with joint cargo transport and on-site energy refueling”
 
 ## Data
 Port information and sailing distances between ports are provided.
