@@ -1,5 +1,5 @@
 # Data and Results
-This repository contains the real data in the Yangtze River and experimental results of the paper: 
+This repository contains the data of the Yangtze River and experimental results of the paper: 
 
 **An exact approach to the all-electric ship scheduling problem with joint cargo transport and on-site energy refueling**
 
